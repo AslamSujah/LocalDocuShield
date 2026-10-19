@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas
+numpy
+ollama>=0.3
+pypdf
+tabpfn
+scikit-learn
